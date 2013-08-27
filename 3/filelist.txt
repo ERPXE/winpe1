@@ -1,0 +1,5 @@
+.:
+filelist.txt
+startrom.0
+winnc.menu
+winnc.sdi

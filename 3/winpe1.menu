@@ -1,0 +1,6 @@
+LABEL XPE3
+MENU LABEL ^Windows PE 1.0 - 3
+KERNEL er/plugins/winpe1/3/startrom.0
+TEXT HELP
+                 Windows XP PE - Based on BartPE.
+ENDTEXT
